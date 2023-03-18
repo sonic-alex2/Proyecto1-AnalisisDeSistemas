@@ -16,3 +16,11 @@ A continuación podemos documentar los siguientes requerimientos para poder filt
  1.6) Reporte mensual de prendas más solicitadas y su tipo de servicio.
 
  1.7) Pagosagos solo en efectivo.
+
+# 2. Documentar el análisis (Developer Team)
+
+A continuación podemos iniciar el análisis del Diagrama Entidad Relación. 
+(imagen)
+<p align="left">
+   <img src="#">
+</p>
