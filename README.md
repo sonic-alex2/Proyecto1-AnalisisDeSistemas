@@ -4,18 +4,54 @@ A continuación podemos documentar los siguientes requerimientos para poder filt
 
 # Será necesario lo siguiente:
 
- 1.1) Un apartado para Servicios con 2 tipos de lavado (seco, lavadora).
+- Un apartado para `Servicio`s con 2 tipos de lavado (seco, lavadora).\
+-- Será necesario un input(caja que permita texto).\
+-- Un botón de crear un nuevo servicio.\
+-- Un botón para guardar un nuevo servicio.\
+-- Un apartado que muestre el listado de los servicios que fueron agregados.\
+-- Un botón de editar el texto del servicio agregado.\
+-- Un botón que muestre detalles de ese servicio.\
+-- Un botón para eliminar algún servicio que se agregó con anterioridad.\
 
- 1.2) Un apartado para Clientes debe de llevar: id, nombre, apellido, (domicilio:calle|número|apartamento|piso), número, apartamento y piso. barrio y el teléfono.
+- Un apartado para la `prenda`.\
+-- Será necesario un input(caja que permita texto).\
+-- Un botón de crear un nuevo prenda.\
+-- Un botón para guardar una nueva prenda.\
+-- Un apartado que muestre el listado de las prendas que fueron agregadas.\
+-- Un botón de editar el texto de alguna prenda agregada.\
+-- Un botón que muestre detalles de cada prenda.\
+-- Un botón para eliminar alguna prenda que se agregó con anterioridad.\
+- Un apartado para `Cliente`s debe de llevar: id, nombre, apellido, (domicilio:calle|número|apartamento|piso), número, apartamento y piso. barrio y el teléfono.\
+-- Será necesario varios  input(caja que permita texto).\
+---- Para el nombre.\
+---- Para el apellido.\
+---- Para la calle.\
+---- Número de apartamento.\
+---- Para el Piso.\
+---- Para el teléfono.\
+---- Para el barrio.\
+-- Un botón de guardar a un cliente.\
+-- Un botón de crear un nuevo cliente.\
+-- Un apartado que muestre el listado de la información que fueron guardados relacionados a los clientes.\
+-- Un botón que muestre detalles de cada cliente.\
+-- Un botón de editar el texto del cliente agregado.\
+-- Un botón para eliminar algún cliente que se agregó con anterioridad.\
+- Un apartado para Pedidos (`Orden`es): id, fecha pedido, tipos de prenda, tipo de servicio individual, cantidad de prendas para ambos servicios, precio total, status de cada pedido.\
+-- Será necesario varios  input(caja que permita texto).\
+---- Para la fecha de pedido.\
+------- Entrega +90 días no se entrega nada.\
+---- Para tipos de prenda.\
+---- Para tipo de servicio individual.\
+--- Estatus de cada pedido.\
+--- Un botón para generar detalles.\
+--- Cantidad de prendas.\
+----- Pagos solo en efectivo.\
+--- Un botón de guardar la orden.\
+--- Un apartado que muestre el listado de la información que fueron guardados antes de los clientes que fueron agregados.\
+---- Un botón de editar el texto del cliente agregado.\
+---- Un botón para eliminar algún cliente que se agregó con anterioridad.\
+- Un apartado donde liste el reporte mensual de prendas más solicitadas y su tipo de servicio.\
 
- 1.3 Un apartado para Pedidos: id, fecha pedido, tipos de prenda, tipo de servicio individual, cantidad de prendas para ambos servicios, precio total, status de cada pedido.
-
- 1.4) Entrega de detalle.
- 1.5) Entrega +90 días no se entrega nada.
-
- 1.6) Reporte mensual de prendas más solicitadas y su tipo de servicio.
-
- 1.7) Pagosagos solo en efectivo.
  
  
  
