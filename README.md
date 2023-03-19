@@ -52,3 +52,24 @@ R10: El sistema permitirá crear el tipo de prenda de la lavandería.
 R11: El sistema permitirá actualizar el tipo de prenda de la lavandería.
 
 R12: El sistema permitirá eliminar el tipo de prenda de la lavandería.
+
+## 3.2) Acerca del prototipado:
+
+Home:
+
+(imagen)
+<p align="left">
+   <img src="#">
+</p>
+
+
+Órdenes:
+(imagen)
+<p align="left">
+   <img src="#">
+</p>
+
+
+Más detalles del aplicativo con respecto a la interfaz:
+
+https://www.figma.com/proto/L0qbS2mcAlt19BYiPc4x28/LAUNDRY.COM?node-id=14-181&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3
