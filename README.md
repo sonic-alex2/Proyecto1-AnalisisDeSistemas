@@ -16,3 +16,39 @@ A continuación podemos documentar los siguientes requerimientos para poder filt
  1.6) Reporte mensual de prendas más solicitadas y su tipo de servicio.
 
  1.7) Pagosagos solo en efectivo.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+# 3. Documentar el diseño de la aplicación (Developer Team)
+
+## 3.1) Requerimientos Funcionales:
+
+R1: El sistema debe validar si el cliente existe dentro de la base de datos.
+
+R2: El sistema debe incluir el tipo de lavado seco.
+
+R3: El sistema debe incluir el tipo de lavado en la lavadora.
+
+R4: El sistema permitirá actualizar el tipo de servicio de la lavandería.
+
+R5: El sistema permitirá eliminar el tipo de servicio de la lavandería.
+
+R6: El sistema debe permitir al administrador generar pedidos para los clientes.
+
+R7: El sistema debe permitir al administrador generar ticket al cliente.
+
+R8: El sistema debe generar un bitácora mensual con los tipos de servicios más solicitados.
+
+R9: El sistema permitirá generar facturas.
+
+R10: El sistema permitirá crear el tipo de prenda de la lavandería.
+
+R11: El sistema permitirá actualizar el tipo de prenda de la lavandería.
+
+R12: El sistema permitirá eliminar el tipo de prenda de la lavandería.
