@@ -54,10 +54,13 @@ A continuación podemos documentar los siguientes requerimientos para poder filt
 
  
  
- 
- 
- 
- 
+ # 2. Documentar el análisis (Developer Team)
+
+A continuación podemos iniciar el análisis del Diagrama Entidad Relación. 
+(imagen)
+<p align="left">
+   <img src="#">
+</p>
  
 
 
