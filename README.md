@@ -59,10 +59,10 @@ A continuación podemos documentar los siguientes requerimientos para poder filt
 A continuación podemos iniciar el análisis del Diagrama Entidad Relación. 
 (imagen)
 <p align="left">
-   <img src="#">
+   <img src="https://lh3.googleusercontent.com/pw/AMWts8CzZrPr5FB-HLB80Ri6O7dxBiHouXmu8aYTaQsk8D19HifP1tFWSmomG7PadyLxNdrlJ0yLjdib9wNIl8ibgeKUZOXV3KuxvVu_BzJuwESmfyT3BxSs9pqWWZc8TXxPWmo5ygJF0-EJwpP0N2EP1VKG=w559-h469-s-no?authuser=2">
 </p>
  
-
+En el archivo se agregan mas.
 
 # 3. Documentar el diseño de la aplicación (Developer Team)
 
