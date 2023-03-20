@@ -89,7 +89,26 @@ R11: El sistema permitirá actualizar el tipo de prenda de la lavandería.
 
 R12: El sistema permitirá eliminar el tipo de prenda de la lavandería.
 
-## 3.2) Acerca del prototipado:
+## 3.2) Requerimientos No Funcionales:
+
+(Datos que no son directamente funcionales con la aplicacion) producto externos, etc.
+
+RNF1: El aplicativo es orientado a la web llevando el modelo cliente - servidor.
+
+RNF2: La arquitectura que contiene el proyecto es M.V.C.
+
+RNF3: El software se desarrolla con el lenguaje HTML5 ,CSS3 y JavaScript.
+
+RFN4: El aplicativo se desarrolla en JAVA y JavaScript.
+
+RNF5: La aplicación corre en navegadores Mozilla, Google Chrome y Navegador Edge.
+
+RNF6: La base de datos que administrará este aplicativo es PhpMyAdmin 5.3
+
+RNF7: El servidor a utilizar en el aplicativo será XAMPP 7.2.11
+
+
+## 3.3) Acerca del prototipado:
 
 Home:
 
