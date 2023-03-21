@@ -60,6 +60,7 @@ A continuación podemos iniciar el análisis del Diagrama Entidad Relación.
 (imagen)
 <p align="left">
    <img src="https://photos.app.goo.gl/fieKKVXBe1CQ4xVY8">
+   <img src="https://photos.google.com/share/AF1QipOL1ADx3vUHSugCY721cOlnmtIsusb1PkspH4qDQ7yoDNj22x6HfdXM_-tPM6_Bxg/photo/AF1QipNUH_p4vWT8moGotuYi1LEGsxidYuB0DeOpi_yp?key=VUdyOTdMbzZGNV9QRjhzaEtsVEJFenVRS2s5RTln">
 </p>
  
 En el archivo se agregan mas.
