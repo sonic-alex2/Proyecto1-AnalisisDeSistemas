@@ -65,18 +65,18 @@ A continuación podemos iniciar el análisis del Diagrama Entidad Relación.
 A continuación incluimos el diagrama de clases.
 
 <p align="left">
-   <img src="https://lh3.googleusercontent.com/pw/AMWts8BPtjBBjm_48VA9DWPC0E9UkOoRQ9-xOnHjke6Bv-H3x4oyDvG4dcqbdBkdbyuBjJpD8nYmQGVJ3tVqfBw0K46JsjZi87K9weYdwQMRxXEUd_xNUsB5P_BBSJNkmMVphQEM7zhVS3uZ7dKp0_uI8HY-=w848-h923-s-no?authuser=2" alt="imagen diagrama de clases, no se ha podido cargar la imagen.">
+   <img src="" alt="imagen diagrama de clases, no se ha podido cargar la imagen.">
 </p>
 
 A continuación También el diagrama de flujo de la entrega más de 90 días
 
 <p align="left">
-   <img src="#" alt="imagen diagrama de flujo, no se ha podido cargar la imagen.">
+   <img src="https://lh3.googleusercontent.com/pw/AMWts8BPtjBBjm_48VA9DWPC0E9UkOoRQ9-xOnHjke6Bv-H3x4oyDvG4dcqbdBkdbyuBjJpD8nYmQGVJ3tVqfBw0K46JsjZi87K9weYdwQMRxXEUd_xNUsB5P_BBSJNkmMVphQEM7zhVS3uZ7dKp0_uI8HY-=w848-h923-s-no?authuser=2" alt="imagen diagrama de flujo, no se ha podido cargar la imagen.">
 </p>
 
 El link donde se puede encontrar el diagrama de flujo.
-https://umgt-my.sharepoint.com/:u:/g/personal/jramosp15_miumg_edu_gt/EY6_eNFvhXdLv6
-kAUAdJriYBO1fyytUCoZ7mHe244bIXgQ?e=kiROEX
+[Link del diagrama de flujo](https://umgt-my.sharepoint.com/:u:/g/personal/jramosp15_miumg_edu_gt/EY6_eNFvhXdLv6
+kAUAdJriYBO1fyytUCoZ7mHe244bIXgQ?e=kiROEX)
  
 # 3. Documentar el diseño de la aplicación (Developer Team)
 
@@ -144,7 +144,7 @@ Home:
 
 Más detalles del aplicativo con respecto a la interfaz:
 
-https://www.figma.com/proto/L0qbS2mcAlt19BYiPc4x28/LAUNDRY.COM?node-id=14-181&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3
+[Link del prototipo](https://www.figma.com/proto/L0qbS2mcAlt19BYiPc4x28/LAUNDRY.COM?node-id=14-181&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
 
 
 # 4. Elegir una metodología de desarrollo (En cascada - Con una variante de Scrum
@@ -154,7 +154,7 @@ https://www.figma.com/proto/L0qbS2mcAlt19BYiPc4x28/LAUNDRY.COM?node-id=14-181&sc
 </p>
 
 # 5. Documentar las pruebas
-Está en fase pendiente, aunque se agregó al cronograma, y se realizarán las pruebas de funcionalidades en los puntos arriba mencionados.
+	Está en fase pendiente, aunque se agregó al cronograma, y se realizarán las pruebas de funcionalidades en los puntos arriba mencionados.
 	
 
 # 6. Documentar la implementación.
@@ -171,5 +171,5 @@ A continuación podemos observar el diagrama de Gantt.
 
 En el siguiente link se puede obtener más información sobre el diagrama.
 
-https://1drv.ms/x/s!AkAMBXHUiRv_kmTj1bKmq2G3df3j?e=1pAVuG
+[link del diagrama de gantt](https://1drv.ms/x/s!AkAMBXHUiRv_kmTj1bKmq2G3df3j?e=1pAVuG)
 
