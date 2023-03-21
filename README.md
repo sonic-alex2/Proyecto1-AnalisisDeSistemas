@@ -75,8 +75,7 @@ A continuación También el diagrama de flujo de la entrega más de 90 días
 </p>
 
 El link donde se puede encontrar el diagrama de flujo.
-[Link del diagrama de flujo](https://umgt-my.sharepoint.com/:u:/g/personal/jramosp15_miumg_edu_gt/EY6_eNFvhXdLv6
-kAUAdJriYBO1fyytUCoZ7mHe244bIXgQ?e=kiROEX)
+[Link del diagrama de flujo](https://umgt-my.sharepoint.com/:u:/g/personal/jramosp15_miumg_edu_gt/EY6_eNFvhXdLv6kAUAdJriYBO1fyytUCoZ7mHe244bIXgQ?e=kiROEX)
  
 # 3. Documentar el diseño de la aplicación (Developer Team)
 
