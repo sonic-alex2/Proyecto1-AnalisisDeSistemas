@@ -61,9 +61,23 @@ A continuación podemos iniciar el análisis del Diagrama Entidad Relación.
 <p align="left">
    <img src="https://lh3.googleusercontent.com/IeFDuSAdmORJwjquG40rMlPKk3S2eWJJ_8HiaA7Aee0fDt6bFIhfmLy9GW1ZeUzAvQEYqVTzLQnflOx4cQmOBLaj-Atns7v-rVsFy3z8Mw3FyyPj317eqiZLNzqyDouGmZoumqxJoZtgl5YBGxoky6Qtz9XWcury237THzvNFX4_q74b-kez71EbIGiENfZGWNT0e8sMb3ThlN6QTvOrS-HXZ4zXZFtni9C9DDi596rVsbiSAiIXBWRsDqnWOSvwHXlXYJ_Pxa8737KqxtBOrj3kpRIy_YChvpA3bQcuaPN8N2dJES-4PF2UnwP17kERA8Gf9usmRcJFIvcYN5HCY90TRFkhcHtcvbnTknMNBbRYxZVGyoMXDkTIaPhuAGkdH9AdBZOVTgLNwOPqy4gdO5mTf_sJ34ulSzaddnf4CJAm1dcv1Oirs6T5P0vL1d58MORnzGEBHySg3LgbD_wcGBV0gjX8FROZTF_2SDvQ59rJVFW28XtQsEl4JX0bsq54LddAIHmoltr5eh0LEthb0AlyOZYSxeNx3K1YXcHXpmcsuE6MNPBSIQZGJd9S2zemdG0cyjUloMr6_uCizbSiRq6Mdwe10VH6bFN7FbJavHh1nDRp8tFCI1bJp73O6pkl6Ab1u0XF7yVxGlNOur6LQBKlbVuCiEi6uOM47zUQzAWvIkWtu2rZg_4_DGUmx4sgeU-E5XjjcNIWty981Y1gWDAMUTJgL7GJ-zoA0mDCzHKu7TPwEgoaHtSbvkwAfHPH41sV1FRvyJi8uIkM6xqqAmI8jXaulrWRwp6pSUe4SAjLUzEL5qqgTxU6Bura5tQiGaQBzPZuJwUE6XUpm7xU1pVAAiwGzEx0W61y8HLScHmcA3xVMrckYP58RVWpRcoBftAmwIGxP-i6E3KNCCS7tEZod5HZnYzE0DT1aUg1k2gf-zDryRb0oITcpgzw8XPntXVHmzaSfjXAUzyGCw0C3y659qMubqAZJ43ljcFZuFYr6AZAThMTELE=w559-h469-s-no?authuser=2" alt="imagen entidad relacion, no se ha podido cargar la imagen.">
 </p>
- 
-En el archivo se agregan mas.
 
+A continuación incluimos el diagrama de clases.
+
+<p align="left">
+   <img src="https://lh3.googleusercontent.com/pw/AMWts8BPtjBBjm_48VA9DWPC0E9UkOoRQ9-xOnHjke6Bv-H3x4oyDvG4dcqbdBkdbyuBjJpD8nYmQGVJ3tVqfBw0K46JsjZi87K9weYdwQMRxXEUd_xNUsB5P_BBSJNkmMVphQEM7zhVS3uZ7dKp0_uI8HY-=w848-h923-s-no?authuser=2" alt="imagen diagrama de clases, no se ha podido cargar la imagen.">
+</p>
+
+A continuación También el diagrama de flujo de la entrega más de 90 días
+
+<p align="left">
+   <img src="#" alt="imagen diagrama de flujo, no se ha podido cargar la imagen.">
+</p>
+
+El link donde se puede encontrar el diagrama de flujo.
+https://umgt-my.sharepoint.com/:u:/g/personal/jramosp15_miumg_edu_gt/EY6_eNFvhXdLv6
+kAUAdJriYBO1fyytUCoZ7mHe244bIXgQ?e=kiROEX
+ 
 # 3. Documentar el diseño de la aplicación (Developer Team)
 
 ## 3.1) Requerimientos Funcionales:
@@ -131,3 +145,31 @@ Home:
 Más detalles del aplicativo con respecto a la interfaz:
 
 https://www.figma.com/proto/L0qbS2mcAlt19BYiPc4x28/LAUNDRY.COM?node-id=14-181&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3
+
+
+# 4. Elegir una metodología de desarrollo (En cascada - Con una variante de Scrum
+
+<p align="left">
+   <img src="https://lh3.googleusercontent.com/pw/AMWts8Ath6gteCBqunHwm72pnm7ER7qvsjdVe4Bubltm1Wwb8ijKgZMypu5mZ3Xzi06VpUrVBdEiO9TH2rQueaE0qGl9T2qN0YzXlGelvk6ul-Mrac07ERZNgr9GRiBQ_Akc-RFCkyNP6JZqEoRiW1ZlUyXv=w679-h399-s-no?authuser=2" alt="imagen metodologia en cascada, no se ha podido cargar la imagen.">
+</p>
+
+# 5. Documentar las pruebas
+Está en fase pendiente, aunque se agregó al cronograma, y se realizarán las pruebas de funcionalidades en los puntos arriba mencionados.
+	
+
+# 6. Documentar la implementación.
+
+	Está en fase pendiente, esta será después de la fase anterior. y agregaremos los detalles sobre la implementación, el servidor donde estará etc.
+	
+# 7. Otras que considere.
+
+A continuación podemos observar el diagrama de Gantt.
+
+<p align="left">
+   <img src="https://lh3.googleusercontent.com/pw/AMWts8Bys0qLDwkmsh4XtPdB30pIIUwNxwg6T2bJi66VhDumkh8mxbdt2VLEhWisFzPKw8Xk0-cpmudqbSt1AxA9Y2acYeu692qAwjz5u41G0ZTakOOJ1wNINW0JCYdzipIXsA50cDNNJFyhdIRFCZLGeU6j=w1280-h359-s-no?authuser=2" alt="imagen diagrama de gantt, no se ha podido cargar la imagen.">
+</p>
+
+En el siguiente link se puede obtener más información sobre el diagrama.
+
+https://1drv.ms/x/s!AkAMBXHUiRv_kmTj1bKmq2G3df3j?e=1pAVuG
+
